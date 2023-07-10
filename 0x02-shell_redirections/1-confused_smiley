@@ -1,2 +1,2 @@
 #!/bin bash 
-echo '"(Ôo)'\'
+echo -e "\e[1m(Ôo)'\e[0m"
